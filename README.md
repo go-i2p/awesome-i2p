@@ -78,6 +78,8 @@
 * [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core. More info [here](https://github.com/bitcoin/bitcoin/blob/master/doc/i2p.md).
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [cuprate](https://github.com/Cuprate/cuprate) - Cuprate is an effort to create an alternative Monero node implementation in Rust.
+It will be able to independently validate Monero consensus rules, providing a layer of security and redundancy for the Monero network.
 
 ### Docker
 
