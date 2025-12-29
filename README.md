@@ -37,7 +37,7 @@
     - [Websites](#websites)
 - [Contributing](#contributing)
 
-## Implementations
+## Complete Implementations
 
 ### I2P
 
@@ -47,17 +47,21 @@
 ### I2Pd
 
 * [I2Pd](https://github.com/PurpleI2P/i2pd) - A C++ implementation of a I2P router. Android release of the I2Pd router: [F-Droid](https://f-droid.org/packages/org.purplei2p.i2pd/).
-* [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
-### Unfinished
+### Usable but incomplete Implementations
 
-* [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
+* [go-i2p](https://github.com/go-i2p/go-i2p) - A pure Go implementation of the I2P router, heavily focuses on producing embedded I2P applications.
+* [emisarry](https://github.com/altonen/emissary) - A pure Rust implementation of the I2P router, developed independently of the existing I2P teams.
+
+### Incomplete Implementations
+
 * [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
 * [i2pcpp](https://github.com/majestrate/i2pcpp) - I2P C++ implementation.
 * [i2p-lite](https://github.com/i2p-lite/i2p-lite) - I2P router implementation in C11.
 * [i2pd-rs](https://github.com/jacklund/i2pd-rs) - I2P Daemon written in Rust.
 * [ire](https://github.com/str4d/ire) - I2P router implementation in Rust.
 * [ri2p](https://github.com/ChristopherBilg/ri2p) - Rust implementation of the i2p client/server/router protocols.
+* [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
 ## Projects using I2P
 
